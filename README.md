@@ -1,4 +1,4 @@
-# ue4-homework
+# UE4 Homework
 A series of homework on Unread Engine
 
 ## Homework 1
